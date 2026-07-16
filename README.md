@@ -1,6 +1,6 @@
-> **Zenodo DOI:** Pending — Target publication 2026-07-25
+> **Zenodo DOI:** Pending - Target publication 2026-07-25
 
-# PP-SPEC-015 · ProofTwin™ — Agent Behavioral Attestation Layer
+# PP-SPEC-015 · ProofTwin™ - Agent Behavioral Attestation Layer
 
 **Document ID:** PP-SPEC-015  
 **Version:** 0.1 - Draft  
