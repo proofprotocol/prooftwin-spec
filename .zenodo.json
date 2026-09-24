@@ -1,0 +1,25 @@
+{
+  "title": "PP-SPEC-015: ProofTwin: Agent Behavioral Attestation Layer",
+  "upload_type": "publication",
+  "creators": [
+    {
+      "name": "Ellrod, Craig",
+      "affiliation": "Nebulonium, Inc. (HACKERverse)"
+    }
+  ],
+  "description": "PP-SPEC-015: ProofTwin: Agent Behavioral Attestation Layer",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "proof-protocol",
+    "prooftwin"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/proofprotocol/prooftwin-spec",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "publication_type": "technicalnote"
+}
