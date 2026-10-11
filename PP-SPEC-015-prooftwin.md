@@ -328,7 +328,7 @@ In production mode, the real agent replaces AgenTwin. Its safety filters are act
 
 ### 10.4 ACR Compatibility
 
-Any ACR that produces per-case verdict output in structured JSON format is compatible with ProofTwin. The ACR feeds case IDs into ProofTwin's session context so behavioral tool calls can be correlated to specific attack cases. See PP-SPEC-016 (HV-MCP Interface Standard) for the full integration contract.
+Any ACR that produces per-case verdict output in structured JSON format is compatible with ProofTwin. The ACR feeds case IDs into ProofTwin's session context so behavioral tool calls can be correlated to specific attack cases. See PP-SPEC-017 (PP-MCP Interface Standard) for the full integration contract.
 
 ---
 
@@ -338,7 +338,6 @@ Any ACR that produces per-case verdict output in structured JSON format is compa
 |----------|-------|--------------------------|
 | Attack Corpus Runners (ACR) | Wire | Complementary. ProofTwin operates above the wire layer. ACR results feed into the PTBR wire_layer verdict. |
 | AARM (CSA) | Conformance | ProofTwin provides behavioral evidence for AARM conformance claims. |
-| POCI (Advanced AI Society) | Verifiability | ProofTwin addresses POCI Verifiability domain at the behavioral layer. |
 | AgentDojo / InjecAgent | Model behavior | Orthogonal. Those test the LLM. ProofTwin tests what the agent did on the wire. |
 | Proof Protocol (PP-SPEC-001–010) | Foundation | ProofTwin is a Proof Protocol component. PTBR records are ProofStamp-certifiable artifacts. |
 
@@ -357,7 +356,7 @@ Proof Protocol specifications PP-SPEC-001 through PP-SPEC-010 establish the broa
 | Milestone | Target |
 |-----------|--------|
 | PP-SPEC-015 v0.1 published to Zenodo | 2026-07-25 |
-| PP-SPEC-016 HV-MCP Interface Standard published | 2026-07-25 |
+| PP-SPEC-017 PP-MCP Interface Standard published | 2026-07-25 |
 | Reference implementation (prooftwin v0.1) | 2026-08-01 |
 | First ProofTwin-witnessed SUT certification run | 2026-08-15 |
 | PP-SPEC-015 v1.0 stable | 2026-09-01 |
@@ -366,10 +365,11 @@ Proof Protocol specifications PP-SPEC-001 through PP-SPEC-010 establish the broa
 
 ## References
 
-- PP-SPEC-001: Proof Protocol Declaration
+- PP-SPEC-001: Proof Protocol Specification
 - PP-SPEC-006: Proof Efficacy Score (PES)
 - PP-SPEC-007: Agent-to-Agent Protocol (HV-A2P)
-- PP-SPEC-016: HV-MCP Interface Standard (ProofTwin ↔ AgenTwin ↔ ASC)
+- PP-SPEC-016: AgenTwin - Configurable Agent Under Test
+- PP-SPEC-017: PP-MCP Interface Standard (ProofTwin ↔ AgenTwin ↔ ASC)
 - NIST Randomness Beacon: https://beacon.nist.gov
 - ProofRegister: https://chain.proofregister.com
 - MCP Specification: https://modelcontextprotocol.io

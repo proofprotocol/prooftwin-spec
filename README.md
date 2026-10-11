@@ -53,10 +53,11 @@ Draft. Subject to change before v1.0.
 
 ## Related Specifications
 
-- [PP-SPEC-001](https://github.com/proofprotocol/DECLARATION) — Proof Protocol Declaration
-- [PP-SPEC-006](https://github.com/proofprotocol/pes-spec) — Proof Efficacy Score
-- [PP-SPEC-007](https://github.com/proofprotocol/a2p-spec) — Agent-to-Agent Proof Protocol
-- [PP-SPEC-016](https://github.com/proofprotocol/pp-mcp-spec) — HV-MCP Interface Standard
+- [PP-SPEC-001](https://github.com/proofprotocol/Proof-Protocol-Specification) - Proof Protocol Specification
+- [PP-SPEC-006](https://github.com/proofprotocol/pes-spec) - Proof Efficacy Score
+- [PP-SPEC-007](https://github.com/proofprotocol/a2p-spec) - Agent-to-Agent Proof Protocol
+- [PP-SPEC-016](https://github.com/proofprotocol/agentwin-spec) - AgenTwin - Configurable Agent Under Test
+- [PP-SPEC-017](https://github.com/proofprotocol/pp-mcp-spec) - PP-MCP Interface Standard
 
 ---
 
