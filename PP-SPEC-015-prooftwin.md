@@ -5,7 +5,7 @@
 **Version:** 0.1.0  
 **Date:** 2026-07-16  
 **Author:** Nebulonium, Inc. / HACKERverse®  
-**License:** Greater Good Commercial License 1.0 (GGL-C-1.0); text CC BY-ND 4.0 under Part S. See LICENSE.md.
+**License:** Greater Good Commercial License 1.0 (GGL-C-1.0); text CC BY 4.0 under Part S. See LICENSE.md.
 **Repository:** https://github.com/proofprotocol/prooftwin  
 
 ---
@@ -376,4 +376,4 @@ Proof Protocol specifications PP-SPEC-001 through PP-SPEC-010 establish the broa
 
 ---
 
-*© 2026 Nebulonium, Inc. Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+*© 2026 Nebulonium, Inc. Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
